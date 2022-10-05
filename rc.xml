@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--
+  This is a very simple config file with many options missing. For a complete
+  set of options with comments, see docs/rc.xml.all
+-->
+<labwc_config>
+  <core>
+    <gap>10</gap>
+  </core>
+  <theme>
+    <name>Raven-Crimson</name>
+    <cornerRadius>9</cornerRadius>
+    <font>
+      <name>sans</name>
+      <size>10</size>
+    </font>
+  </theme>
+  <keyboard>
+    <default/>
+    <keybind key="A-Return">
+      <action name="Execute">
+        <command>sakura</command>
+      </action>
+    </keybind>
+  </keyboard>
+  <libinput>
+    <device>
+      <naturalscroll>yes</naturalscroll>
+    </device>
+  </libinput>
+</labwc_config>
