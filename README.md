@@ -12,4 +12,6 @@ cp menu.xml  ~/config/labwc/
 cp rc.xml  ~/config/labwc/
 ```
 
+https://github.com/labwc/labwc-menu-generator.git
+https://github.com/labwc/labwc-tweaks.git
 https://github.com/addy-dclxvi/openbox-theme-collections.git
